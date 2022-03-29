@@ -1,2 +1,2 @@
 # ws-client-soapui
-İZİBİZ Webservice Entegrasyon - SOAPUI
+Doğan E-Döüşüm Webservice Entegrasyon - SOAPUI
